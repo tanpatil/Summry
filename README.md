@@ -1,4 +1,5 @@
-Created by Tanay Patil for LA Hacks 2022
+Created by Tanay for LA Hacks 2022
+
 Checkout our devpost [submission](https://devpost.com/software/summry)
 
 ## 💡 INSPIRATION 💡
