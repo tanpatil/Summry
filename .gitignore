@@ -1,0 +1,6 @@
+web/venv
+web/__pycache__
+venv
+__pycache__
+*.csv
+*.srt
